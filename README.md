@@ -1,2 +1,3 @@
-# cpp_lessons
-Repositiry for homework of Annenkov Vladimir (second semestr)
+# Домашние задания по программированию на C++
+студента первого курса группы УТС/б 22-01-о
+Анненкова Владимира
