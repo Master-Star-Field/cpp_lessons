@@ -26,8 +26,8 @@ struct ICONDIRENTRY {
     SHWORD ColorCount;
     SHWORD Reserved;
     WORD Planes;
-    WORD BitCount;
-    LWORD BytesInRes;
+    WORD BPP;
+    LWORD SIZE;
     LWORD ImageOffset;
 };
 
@@ -54,8 +54,8 @@ int main() {
         std::cout << "\tHeight: " << (short)(dir_entry.Height) << std::endl;
         std::cout << "\tColorCount: " << (short)(dir_entry.ColorCount) << std::endl;
         std::cout << "\tPlanes: " << dir_entry.Planes << std::endl;
-        std::cout << "\tBitCount: " << dir_entry.BitCount << std::endl;
-        std::cout << "\tBytesInRes: " << dir_entry.BytesInRes << std::endl;
+        std::cout << "\tBitCount: " << dir_entry.BPP << std::endl;
+        std::cout << "\tBytesInRes: " << dir_entry.SIZE << std::endl;
         std::cout << "\tImageOffset: " << dir_entry.ImageOffset << std::endl;
     }
 
