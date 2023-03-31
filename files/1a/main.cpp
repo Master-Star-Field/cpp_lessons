@@ -26,8 +26,8 @@ struct ICONDIRENTRY {
     SHWORD ColorCount;
     SHWORD Reserved;
     WORD Planes;
-    WORD BPP;
-    LWORD SIZE;
+    WORD BitCount;
+    LWORD BytesInRes;
     LWORD ImageOffset;
 };
 
@@ -44,20 +44,18 @@ int main() {
     std::cout << "\tType: " << icon_dir.Type << std::endl;
     std::cout << "\tCount: " << icon_dir.Count << std::endl << std::endl;
 
-    for (int i = 0; i < icon_dir.Count; i++) {
-        ICONDIRENTRY dir_entry;
-        file.read((char*)&dir_entry, sizeof(dir_entry));
-        file.close();
-        std::cout << "\t--ICONDIRENTRY--" << std::endl;
-        std::cout << "\tIcon #" << i << std::endl;
-        std::cout << "\tWidth: " << (short)(dir_entry.Width) << std::endl;
-        std::cout << "\tHeight: " << (short)(dir_entry.Height) << std::endl;
-        std::cout << "\tColorCount: " << (short)(dir_entry.ColorCount) << std::endl;
-        std::cout << "\tPlanes: " << dir_entry.Planes << std::endl;
-        std::cout << "\tBitCount: " << dir_entry.BPP << std::endl;
-        std::cout << "\tBytesInRes: " << dir_entry.SIZE << std::endl;
-        std::cout << "\tImageOffset: " << dir_entry.ImageOffset << std::endl;
-    }
+    ICONDIRENTRY dir_entry;
+    file.read((char*)&dir_entry, sizeof(dir_entry));
+    file.close();
+
+    std::cout << "\t--ICONDIRENTRY--" << std::endl;
+    std::cout << "\tWidth: " << (short)(dir_entry.Width) << std::endl;
+    std::cout << "\tHeight: " << (short)(dir_entry.Height) << std::endl;
+    std::cout << "\tColorCount: " << (short)(dir_entry.ColorCount) << std::endl;
+    std::cout << "\tPlanes: " << dir_entry.Planes << std::endl;
+    std::cout << "\tBitCount: " << dir_entry.BitCount << std::endl;
+    std::cout << "\tBytesInRes: " << dir_entry.BytesInRes << std::endl;
+    std::cout << "\tImageOffset: " << dir_entry.ImageOffset << std::endl;
 
     return 0;
 }
