@@ -1,0 +1,272 @@
+{
+  "version": "2.1.0",
+  "$schema": "https://schemastore.azurewebsites.net/schemas/json/sarif-2.1.0-rtm.5.json",
+  "runs": [
+    {
+      "results": [
+        {
+          "ruleId": "C26495",
+          "message": {
+            "text": "Переменная \"Card::mouse_num\" не инициализирована. Всегда инициализируйте переменную-член (type.6)."
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///D:/my_projects/Game/Game/world.h"
+                },
+                "region": {
+                  "startLine": 107,
+                  "startColumn": 1,
+                  "endLine": 107,
+                  "endColumn": 1
+                }
+              },
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "Card::{ctor}",
+                  "decoratedName": "??0Card@@QAE@XZ",
+                  "kind": "function"
+                }
+              ]
+            }
+          ],
+          "properties": {
+            "targetSymbol": "Card::mouse_num"
+          }
+        },
+        {
+          "ruleId": "C26495",
+          "message": {
+            "text": "Переменная \"Effect::stime\" не инициализирована. Всегда инициализируйте переменную-член (type.6)."
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///D:/my_projects/Game/Game/entity.h"
+                },
+                "region": {
+                  "startLine": 27,
+                  "startColumn": 1,
+                  "endLine": 27,
+                  "endColumn": 1
+                }
+              },
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "Effect::{ctor}",
+                  "decoratedName": "??0Effect@@QAE@XZ",
+                  "kind": "function"
+                }
+              ]
+            }
+          ],
+          "properties": {
+            "targetSymbol": "Effect::stime"
+          }
+        },
+        {
+          "ruleId": "C26495",
+          "message": {
+            "text": "Переменная \"Effect::etime\" не инициализирована. Всегда инициализируйте переменную-член (type.6)."
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///D:/my_projects/Game/Game/entity.h"
+                },
+                "region": {
+                  "startLine": 27,
+                  "startColumn": 1,
+                  "endLine": 27,
+                  "endColumn": 1
+                }
+              },
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "Effect::{ctor}",
+                  "decoratedName": "??0Effect@@QAE@XZ",
+                  "kind": "function"
+                }
+              ]
+            }
+          ],
+          "properties": {
+            "targetSymbol": "Effect::etime"
+          }
+        },
+        {
+          "ruleId": "C26451",
+          "message": {
+            "text": "Арифметическое переполнение: использование оператора \"*\" на байтовом значении 4 и приведение результата к байтовому значению 8. Приведите значение к более широкому типу перед вызовом оператора \"*\", чтобы избежать переполнения (io.2)."
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///D:/my_projects/Game/Game/main.cpp"
+                },
+                "region": {
+                  "startLine": 103,
+                  "startColumn": 58,
+                  "endLine": 103,
+                  "endColumn": 62
+                }
+              },
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "mouseClick",
+                  "decoratedName": "?mouseClick@@YAXHHHH@Z",
+                  "kind": "function"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "ruleId": "C26451",
+          "message": {
+            "text": "Арифметическое переполнение: использование оператора \"*\" на байтовом значении 4 и приведение результата к байтовому значению 8. Приведите значение к более широкому типу перед вызовом оператора \"*\", чтобы избежать переполнения (io.2)."
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///D:/my_projects/Game/Game/main.cpp"
+                },
+                "region": {
+                  "startLine": 103,
+                  "startColumn": 115,
+                  "endLine": 103,
+                  "endColumn": 119
+                }
+              },
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "mouseClick",
+                  "decoratedName": "?mouseClick@@YAXHHHH@Z",
+                  "kind": "function"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "tool": {
+        "driver": {
+          "name": "PREfast",
+          "fullName": "PREfast Code Analysis",
+          "version": "14.35.32215.0",
+          "informationUri": "https://aka.ms/cpp/ca"
+        }
+      },
+      "invocations": [
+        {
+          "executionSuccessful": true
+        }
+      ],
+      "artifacts": [
+        {
+          "location": {
+            "uri": "file:///D:/my_projects/Game/Game/world.h"
+          },
+          "roles": [
+            "resultFile"
+          ],
+          "hashes": {
+            "sha-256": "c4e45c9d3309ed679d0faf533bb6d6129467bf6cb6c612ecbe0d0dcc74af94a4"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///D:/my_projects/Game/Game/entity.h"
+          },
+          "roles": [
+            "resultFile"
+          ],
+          "hashes": {
+            "sha-256": "28027c5699b59645425985971724f66f4fac7213ccd6d4df7b00ff99b32d19f8"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///D:/my_projects/Game/Game/main.cpp"
+          },
+          "roles": [
+            "analysisTarget",
+            "resultFile"
+          ],
+          "hashes": {
+            "sha-256": "23a0aafb5e5a0875cd51c079f9bff3db0f79aeb2f69a3294b9c9f4e1b9ff475d"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///d:/vcpkg/installed/x86-windows/include/gl/glut.h"
+          },
+          "hashes": {
+            "sha-256": "e3ffcfd1147cd45a9ddb49ab9791e8fc6269f52732f0c02f10f2daf9cc0e730b"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///d:/vcpkg/installed/x86-windows/include/gl/freeglut_std.h"
+          },
+          "hashes": {
+            "sha-256": "5eb4bc6141452142ac54e93a506a245c70ed196b40669afb2c870a37ad8155dd"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///d:/vcpkg/installed/x86-windows/include/gl/gl.h"
+          },
+          "hashes": {
+            "sha-256": "5a24c6fd7b416dd53b68a1c766c338ba2ee6f2b57a43ad7868bb5308d0e5fbb9"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///d:/vcpkg/installed/x86-windows/include/gl/glu.h"
+          },
+          "hashes": {
+            "sha-256": "db307251615fe0fc6c827e49b1d66de95a01c7b66f5bcc5924fae9b66bb10af6"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///d:/my_projects/game/game/drawlib.h"
+          },
+          "hashes": {
+            "sha-256": "1c159d743bd71ccac16b11cfe91bf3d4bf0919cc0857a812cedc5e60ad2dae2c"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///d:/my_projects/game/game/logic_lib.h"
+          },
+          "hashes": {
+            "sha-256": "bccd004087ae8af7fce6098182d74409e38653afd5a253c8bfb70ab6cc8265fa"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///d:/my_projects/game/game/animation_lib.h"
+          },
+          "hashes": {
+            "sha-256": "81f77ff3e91624f6a6139583a0ba714e18a13d28f48442b5331a0a58b564412f"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///d:/my_projects/game/game/music_lib.h"
+          },
+          "hashes": {
+            "sha-256": "54c7eef499194cc802c4bc0882f6f39e3f8ed477dbe4f85a8e858a92bd401192"
+          }
+        }
+      ]
+    }
+  ]
+}

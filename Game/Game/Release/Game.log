@@ -1,0 +1,256 @@
+﻿  animation_lib.cpp
+  file_lib.cpp
+  file_lib.h
+  music_lib.cpp
+  structures_lib.cpp
+D:\my_projects\Game\Game\structures_lib.cpp(38616,58): warning C4244: аргумент: преобразование "double" в "GLfloat", возможна потеря данных
+D:\my_projects\Game\Game\structures_lib.cpp(38616,65): warning C4305: аргумент: усечение из "double" в "GLfloat"
+D:\my_projects\Game\Game\structures_lib.cpp(38641,73): warning C4244: аргумент: преобразование "double" в "GLfloat", возможна потеря данных
+D:\my_projects\Game\Game\structures_lib.cpp(38641,80): warning C4305: аргумент: усечение из "double" в "GLfloat"
+D:\my_projects\Game\Game\structures_lib.cpp(38894,58): warning C4244: аргумент: преобразование "double" в "GLfloat", возможна потеря данных
+D:\my_projects\Game\Game\structures_lib.cpp(38894,65): warning C4305: аргумент: усечение из "double" в "GLfloat"
+D:\my_projects\Game\Game\structures_lib.cpp(39124,72): warning C4244: аргумент: преобразование "double" в "GLfloat", возможна потеря данных
+D:\my_projects\Game\Game\structures_lib.cpp(39124,79): warning C4305: аргумент: усечение из "double" в "GLfloat"
+D:\my_projects\Game\Game\structures_lib.cpp(39265,72): warning C4244: аргумент: преобразование "double" в "GLfloat", возможна потеря данных
+D:\my_projects\Game\Game\structures_lib.cpp(39265,79): warning C4305: аргумент: усечение из "double" в "GLfloat"
+D:\my_projects\Game\Game\structures_lib.cpp(39418,58): warning C4244: аргумент: преобразование "double" в "GLfloat", возможна потеря данных
+D:\my_projects\Game\Game\structures_lib.cpp(39418,65): warning C4305: аргумент: усечение из "double" в "GLfloat"
+D:\my_projects\Game\Game\structures_lib.cpp(39484,58): warning C4244: аргумент: преобразование "double" в "GLfloat", возможна потеря данных
+D:\my_projects\Game\Game\structures_lib.cpp(39484,65): warning C4305: аргумент: усечение из "double" в "GLfloat"
+D:\my_projects\Game\Game\structures_lib.cpp(39565,57): warning C4244: аргумент: преобразование "double" в "GLfloat", возможна потеря данных
+D:\my_projects\Game\Game\structures_lib.cpp(39565,64): warning C4305: аргумент: усечение из "double" в "GLfloat"
+D:\my_projects\Game\Game\structures_lib.cpp(39710,72): warning C4244: аргумент: преобразование "double" в "GLfloat", возможна потеря данных
+D:\my_projects\Game\Game\structures_lib.cpp(39710,79): warning C4305: аргумент: усечение из "double" в "GLfloat"
+D:\my_projects\Game\Game\structures_lib.cpp(39879,71): warning C4244: аргумент: преобразование "double" в "GLfloat", возможна потеря данных
+D:\my_projects\Game\Game\structures_lib.cpp(39879,78): warning C4305: аргумент: усечение из "double" в "GLfloat"
+D:\my_projects\Game\Game\structures_lib.cpp(40100,72): warning C4244: аргумент: преобразование "double" в "GLfloat", возможна потеря данных
+D:\my_projects\Game\Game\structures_lib.cpp(40100,79): warning C4305: аргумент: усечение из "double" в "GLfloat"
+D:\my_projects\Game\Game\structures_lib.cpp(40358,57): warning C4244: аргумент: преобразование "double" в "GLfloat", возможна потеря данных
+D:\my_projects\Game\Game\structures_lib.cpp(40358,64): warning C4305: аргумент: усечение из "double" в "GLfloat"
+D:\my_projects\Game\Game\structures_lib.cpp(40515,57): warning C4244: аргумент: преобразование "double" в "GLfloat", возможна потеря данных
+D:\my_projects\Game\Game\structures_lib.cpp(40515,64): warning C4305: аргумент: усечение из "double" в "GLfloat"
+D:\my_projects\Game\Game\structures_lib.cpp(40768,58): warning C4244: аргумент: преобразование "double" в "GLfloat", возможна потеря данных
+D:\my_projects\Game\Game\structures_lib.cpp(40768,65): warning C4305: аргумент: усечение из "double" в "GLfloat"
+D:\my_projects\Game\Game\structures_lib.cpp(40845,72): warning C4244: аргумент: преобразование "double" в "GLfloat", возможна потеря данных
+D:\my_projects\Game\Game\structures_lib.cpp(40845,79): warning C4305: аргумент: усечение из "double" в "GLfloat"
+D:\my_projects\Game\Game\structures_lib.cpp(41167,57): warning C4244: аргумент: преобразование "double" в "GLfloat", возможна потеря данных
+D:\my_projects\Game\Game\structures_lib.cpp(41167,64): warning C4305: аргумент: усечение из "double" в "GLfloat"
+D:\my_projects\Game\Game\structures_lib.cpp(41340,78): warning C4244: аргумент: преобразование "double" в "GLfloat", возможна потеря данных
+D:\my_projects\Game\Game\structures_lib.cpp(41340,85): warning C4305: аргумент: усечение из "double" в "GLfloat"
+D:\my_projects\Game\Game\structures_lib.cpp(41614,75): warning C4244: аргумент: преобразование "double" в "GLfloat", возможна потеря данных
+D:\my_projects\Game\Game\structures_lib.cpp(41614,82): warning C4305: аргумент: усечение из "double" в "GLfloat"
+D:\my_projects\Game\Game\structures_lib.cpp(41771,57): warning C4244: аргумент: преобразование "double" в "GLfloat", возможна потеря данных
+D:\my_projects\Game\Game\structures_lib.cpp(41771,64): warning C4305: аргумент: усечение из "double" в "GLfloat"
+D:\my_projects\Game\Game\structures_lib.cpp(42092,56): warning C4244: аргумент: преобразование "double" в "GLfloat", возможна потеря данных
+D:\my_projects\Game\Game\structures_lib.cpp(42092,63): warning C4305: аргумент: усечение из "double" в "GLfloat"
+D:\my_projects\Game\Game\structures_lib.cpp(42341,72): warning C4244: аргумент: преобразование "double" в "GLfloat", возможна потеря данных
+D:\my_projects\Game\Game\structures_lib.cpp(42341,79): warning C4305: аргумент: усечение из "double" в "GLfloat"
+D:\my_projects\Game\Game\structures_lib.cpp(42573,72): warning C4244: аргумент: преобразование "double" в "GLfloat", возможна потеря данных
+D:\my_projects\Game\Game\structures_lib.cpp(42573,79): warning C4305: аргумент: усечение из "double" в "GLfloat"
+D:\my_projects\Game\Game\structures_lib.cpp(42774,72): warning C4244: аргумент: преобразование "double" в "GLfloat", возможна потеря данных
+D:\my_projects\Game\Game\structures_lib.cpp(42774,79): warning C4305: аргумент: усечение из "double" в "GLfloat"
+D:\my_projects\Game\Game\structures_lib.cpp(43470,58): warning C4244: аргумент: преобразование "double" в "GLfloat", возможна потеря данных
+D:\my_projects\Game\Game\structures_lib.cpp(43470,65): warning C4305: аргумент: усечение из "double" в "GLfloat"
+D:\my_projects\Game\Game\structures_lib.cpp(43699,72): warning C4244: аргумент: преобразование "double" в "GLfloat", возможна потеря данных
+D:\my_projects\Game\Game\structures_lib.cpp(43699,79): warning C4305: аргумент: усечение из "double" в "GLfloat"
+D:\my_projects\Game\Game\structures_lib.cpp(44406,72): warning C4244: аргумент: преобразование "double" в "GLfloat", возможна потеря данных
+D:\my_projects\Game\Game\structures_lib.cpp(44406,79): warning C4305: аргумент: усечение из "double" в "GLfloat"
+D:\my_projects\Game\Game\structures_lib.cpp(44519,71): warning C4244: аргумент: преобразование "double" в "GLfloat", возможна потеря данных
+D:\my_projects\Game\Game\structures_lib.cpp(44519,78): warning C4305: аргумент: усечение из "double" в "GLfloat"
+D:\my_projects\Game\Game\structures_lib.cpp(44724,72): warning C4244: аргумент: преобразование "double" в "GLfloat", возможна потеря данных
+D:\my_projects\Game\Game\structures_lib.cpp(44724,79): warning C4305: аргумент: усечение из "double" в "GLfloat"
+D:\my_projects\Game\Game\structures_lib.cpp(46007,91): warning C4305: аргумент: усечение из "double" в "GLfloat"
+D:\my_projects\Game\Game\structures_lib.cpp(46106,72): warning C4244: аргумент: преобразование "double" в "GLfloat", возможна потеря данных
+D:\my_projects\Game\Game\structures_lib.cpp(46106,79): warning C4305: аргумент: усечение из "double" в "GLfloat"
+D:\my_projects\Game\Game\structures_lib.cpp(46595,72): warning C4244: аргумент: преобразование "double" в "GLfloat", возможна потеря данных
+D:\my_projects\Game\Game\structures_lib.cpp(46595,79): warning C4305: аргумент: усечение из "double" в "GLfloat"
+D:\my_projects\Game\Game\structures_lib.cpp(47797,75): warning C4244: аргумент: преобразование "double" в "GLfloat", возможна потеря данных
+D:\my_projects\Game\Game\structures_lib.cpp(47797,82): warning C4305: аргумент: усечение из "double" в "GLfloat"
+D:\my_projects\Game\Game\structures_lib.cpp(48078,73): warning C4244: аргумент: преобразование "double" в "GLfloat", возможна потеря данных
+D:\my_projects\Game\Game\structures_lib.cpp(48078,80): warning C4305: аргумент: усечение из "double" в "GLfloat"
+D:\my_projects\Game\Game\structures_lib.cpp(48199,72): warning C4244: аргумент: преобразование "double" в "GLfloat", возможна потеря данных
+D:\my_projects\Game\Game\structures_lib.cpp(48199,79): warning C4305: аргумент: усечение из "double" в "GLfloat"
+D:\my_projects\Game\Game\structures_lib.cpp(48364,72): warning C4244: аргумент: преобразование "double" в "GLfloat", возможна потеря данных
+D:\my_projects\Game\Game\structures_lib.cpp(48364,79): warning C4305: аргумент: усечение из "double" в "GLfloat"
+D:\my_projects\Game\Game\structures_lib.cpp(48524,72): warning C4244: аргумент: преобразование "double" в "GLfloat", возможна потеря данных
+D:\my_projects\Game\Game\structures_lib.cpp(48524,79): warning C4305: аргумент: усечение из "double" в "GLfloat"
+D:\my_projects\Game\Game\structures_lib.cpp(48553,57): warning C4244: аргумент: преобразование "double" в "GLfloat", возможна потеря данных
+D:\my_projects\Game\Game\structures_lib.cpp(48553,64): warning C4305: аргумент: усечение из "double" в "GLfloat"
+D:\my_projects\Game\Game\structures_lib.cpp(48562,72): warning C4244: аргумент: преобразование "double" в "GLfloat", возможна потеря данных
+D:\my_projects\Game\Game\structures_lib.cpp(48562,79): warning C4305: аргумент: усечение из "double" в "GLfloat"
+D:\my_projects\Game\Game\structures_lib.cpp(48619,73): warning C4244: аргумент: преобразование "double" в "GLfloat", возможна потеря данных
+D:\my_projects\Game\Game\structures_lib.cpp(48619,80): warning C4305: аргумент: усечение из "double" в "GLfloat"
+D:\my_projects\Game\Game\structures_lib.cpp(48656,73): warning C4244: аргумент: преобразование "double" в "GLfloat", возможна потеря данных
+D:\my_projects\Game\Game\structures_lib.cpp(48656,80): warning C4305: аргумент: усечение из "double" в "GLfloat"
+D:\my_projects\Game\Game\structures_lib.cpp(48669,73): warning C4244: аргумент: преобразование "double" в "GLfloat", возможна потеря данных
+D:\my_projects\Game\Game\structures_lib.cpp(48669,80): warning C4305: аргумент: усечение из "double" в "GLfloat"
+D:\my_projects\Game\Game\structures_lib.cpp(48731,73): warning C4244: аргумент: преобразование "double" в "GLfloat", возможна потеря данных
+D:\my_projects\Game\Game\structures_lib.cpp(48731,80): warning C4305: аргумент: усечение из "double" в "GLfloat"
+D:\my_projects\Game\Game\structures_lib.cpp(48748,73): warning C4244: аргумент: преобразование "double" в "GLfloat", возможна потеря данных
+D:\my_projects\Game\Game\structures_lib.cpp(48748,80): warning C4305: аргумент: усечение из "double" в "GLfloat"
+D:\my_projects\Game\Game\structures_lib.cpp(48797,72): warning C4244: аргумент: преобразование "double" в "GLfloat", возможна потеря данных
+D:\my_projects\Game\Game\structures_lib.cpp(48797,79): warning C4305: аргумент: усечение из "double" в "GLfloat"
+D:\my_projects\Game\Game\structures_lib.cpp(48870,73): warning C4244: аргумент: преобразование "double" в "GLfloat", возможна потеря данных
+D:\my_projects\Game\Game\structures_lib.cpp(48870,80): warning C4305: аргумент: усечение из "double" в "GLfloat"
+D:\my_projects\Game\Game\structures_lib.cpp(48927,72): warning C4244: аргумент: преобразование "double" в "GLfloat", возможна потеря данных
+D:\my_projects\Game\Game\structures_lib.cpp(48927,79): warning C4305: аргумент: усечение из "double" в "GLfloat"
+D:\my_projects\Game\Game\structures_lib.cpp(48980,72): warning C4244: аргумент: преобразование "double" в "GLfloat", возможна потеря данных
+D:\my_projects\Game\Game\structures_lib.cpp(48980,79): warning C4305: аргумент: усечение из "double" в "GLfloat"
+D:\my_projects\Game\Game\structures_lib.cpp(49101,73): warning C4244: аргумент: преобразование "double" в "GLfloat", возможна потеря данных
+D:\my_projects\Game\Game\structures_lib.cpp(49101,80): warning C4305: аргумент: усечение из "double" в "GLfloat"
+D:\my_projects\Game\Game\structures_lib.cpp(49134,74): warning C4244: аргумент: преобразование "double" в "GLfloat", возможна потеря данных
+D:\my_projects\Game\Game\structures_lib.cpp(49134,81): warning C4305: аргумент: усечение из "double" в "GLfloat"
+D:\my_projects\Game\Game\structures_lib.cpp(49167,72): warning C4244: аргумент: преобразование "double" в "GLfloat", возможна потеря данных
+D:\my_projects\Game\Game\structures_lib.cpp(49167,79): warning C4305: аргумент: усечение из "double" в "GLfloat"
+D:\my_projects\Game\Game\structures_lib.cpp(49180,71): warning C4244: аргумент: преобразование "double" в "GLfloat", возможна потеря данных
+D:\my_projects\Game\Game\structures_lib.cpp(49180,78): warning C4305: аргумент: усечение из "double" в "GLfloat"
+D:\my_projects\Game\Game\structures_lib.cpp(49237,71): warning C4244: аргумент: преобразование "double" в "GLfloat", возможна потеря данных
+D:\my_projects\Game\Game\structures_lib.cpp(49237,78): warning C4305: аргумент: усечение из "double" в "GLfloat"
+D:\my_projects\Game\Game\structures_lib.cpp(49379,57): warning C4244: аргумент: преобразование "double" в "GLfloat", возможна потеря данных
+D:\my_projects\Game\Game\structures_lib.cpp(49379,64): warning C4305: аргумент: усечение из "double" в "GLfloat"
+D:\my_projects\Game\Game\structures_lib.cpp(49650,72): warning C4244: аргумент: преобразование "double" в "GLfloat", возможна потеря данных
+D:\my_projects\Game\Game\structures_lib.cpp(49650,79): warning C4305: аргумент: усечение из "double" в "GLfloat"
+D:\my_projects\Game\Game\structures_lib.cpp(49743,57): warning C4244: аргумент: преобразование "double" в "GLfloat", возможна потеря данных
+D:\my_projects\Game\Game\structures_lib.cpp(49743,64): warning C4305: аргумент: усечение из "double" в "GLfloat"
+D:\my_projects\Game\Game\structures_lib.cpp(49748,72): warning C4244: аргумент: преобразование "double" в "GLfloat", возможна потеря данных
+D:\my_projects\Game\Game\structures_lib.cpp(49748,79): warning C4305: аргумент: усечение из "double" в "GLfloat"
+D:\my_projects\Game\Game\structures_lib.cpp(49765,75): warning C4244: аргумент: преобразование "double" в "GLfloat", возможна потеря данных
+D:\my_projects\Game\Game\structures_lib.cpp(49765,82): warning C4305: аргумент: усечение из "double" в "GLfloat"
+D:\my_projects\Game\Game\structures_lib.cpp(49846,73): warning C4244: аргумент: преобразование "double" в "GLfloat", возможна потеря данных
+D:\my_projects\Game\Game\structures_lib.cpp(49846,80): warning C4305: аргумент: усечение из "double" в "GLfloat"
+D:\my_projects\Game\Game\structures_lib.cpp(49931,57): warning C4244: аргумент: преобразование "double" в "GLfloat", возможна потеря данных
+D:\my_projects\Game\Game\structures_lib.cpp(49931,64): warning C4305: аргумент: усечение из "double" в "GLfloat"
+D:\my_projects\Game\Game\structures_lib.cpp(50068,72): warning C4244: аргумент: преобразование "double" в "GLfloat", возможна потеря данных
+D:\my_projects\Game\Game\structures_lib.cpp(50068,79): warning C4305: аргумент: усечение из "double" в "GLfloat"
+D:\my_projects\Game\Game\structures_lib.cpp(50124,75): warning C4244: аргумент: преобразование "double" в "GLfloat", возможна потеря данных
+D:\my_projects\Game\Game\structures_lib.cpp(50124,82): warning C4305: аргумент: усечение из "double" в "GLfloat"
+D:\my_projects\Game\Game\structures_lib.cpp(50205,74): warning C4244: аргумент: преобразование "double" в "GLfloat", возможна потеря данных
+D:\my_projects\Game\Game\structures_lib.cpp(50205,81): warning C4305: аргумент: усечение из "double" в "GLfloat"
+D:\my_projects\Game\Game\structures_lib.cpp(50377,74): warning C4244: аргумент: преобразование "double" в "GLfloat", возможна потеря данных
+D:\my_projects\Game\Game\structures_lib.cpp(50377,81): warning C4305: аргумент: усечение из "double" в "GLfloat"
+D:\my_projects\Game\Game\structures_lib.cpp(50538,74): warning C4244: аргумент: преобразование "double" в "GLfloat", возможна потеря данных
+D:\my_projects\Game\Game\structures_lib.cpp(50538,81): warning C4305: аргумент: усечение из "double" в "GLfloat"
+D:\my_projects\Game\Game\structures_lib.cpp(50656,35): warning C4244: аргумент: преобразование "double" в "GLfloat", возможна потеря данных
+D:\my_projects\Game\Game\structures_lib.cpp(50656,26): warning C4244: аргумент: преобразование "double" в "GLfloat", возможна потеря данных
+D:\my_projects\Game\Game\structures_lib.cpp(50656,17): warning C4244: аргумент: преобразование "double" в "GLfloat", возможна потеря данных
+D:\my_projects\Game\Game\structures_lib.cpp(50715,35): warning C4244: аргумент: преобразование "double" в "GLfloat", возможна потеря данных
+D:\my_projects\Game\Game\structures_lib.cpp(50715,26): warning C4244: аргумент: преобразование "double" в "GLfloat", возможна потеря данных
+D:\my_projects\Game\Game\structures_lib.cpp(50715,17): warning C4244: аргумент: преобразование "double" в "GLfloat", возможна потеря данных
+D:\my_projects\Game\Game\structures_lib.cpp(50797,35): warning C4244: аргумент: преобразование "double" в "GLfloat", возможна потеря данных
+D:\my_projects\Game\Game\structures_lib.cpp(50797,26): warning C4244: аргумент: преобразование "double" в "GLfloat", возможна потеря данных
+D:\my_projects\Game\Game\structures_lib.cpp(50797,17): warning C4244: аргумент: преобразование "double" в "GLfloat", возможна потеря данных
+D:\my_projects\Game\Game\structures_lib.cpp(50894,35): warning C4244: аргумент: преобразование "double" в "GLfloat", возможна потеря данных
+D:\my_projects\Game\Game\structures_lib.cpp(50894,26): warning C4244: аргумент: преобразование "double" в "GLfloat", возможна потеря данных
+D:\my_projects\Game\Game\structures_lib.cpp(50894,17): warning C4244: аргумент: преобразование "double" в "GLfloat", возможна потеря данных
+D:\my_projects\Game\Game\structures_lib.cpp(50975,35): warning C4244: аргумент: преобразование "double" в "GLfloat", возможна потеря данных
+D:\my_projects\Game\Game\structures_lib.cpp(50975,26): warning C4244: аргумент: преобразование "double" в "GLfloat", возможна потеря данных
+D:\my_projects\Game\Game\structures_lib.cpp(50975,17): warning C4244: аргумент: преобразование "double" в "GLfloat", возможна потеря данных
+D:\my_projects\Game\Game\structures_lib.cpp(51047,35): warning C4244: аргумент: преобразование "double" в "GLfloat", возможна потеря данных
+D:\my_projects\Game\Game\structures_lib.cpp(51047,26): warning C4244: аргумент: преобразование "double" в "GLfloat", возможна потеря данных
+D:\my_projects\Game\Game\structures_lib.cpp(51047,17): warning C4244: аргумент: преобразование "double" в "GLfloat", возможна потеря данных
+D:\my_projects\Game\Game\structures_lib.cpp(51108,35): warning C4244: аргумент: преобразование "double" в "GLfloat", возможна потеря данных
+D:\my_projects\Game\Game\structures_lib.cpp(51108,26): warning C4244: аргумент: преобразование "double" в "GLfloat", возможна потеря данных
+D:\my_projects\Game\Game\structures_lib.cpp(51108,17): warning C4244: аргумент: преобразование "double" в "GLfloat", возможна потеря данных
+D:\my_projects\Game\Game\structures_lib.cpp(51180,35): warning C4244: аргумент: преобразование "double" в "GLfloat", возможна потеря данных
+D:\my_projects\Game\Game\structures_lib.cpp(51180,26): warning C4244: аргумент: преобразование "double" в "GLfloat", возможна потеря данных
+D:\my_projects\Game\Game\structures_lib.cpp(51180,17): warning C4244: аргумент: преобразование "double" в "GLfloat", возможна потеря данных
+D:\my_projects\Game\Game\structures_lib.cpp(51256,35): warning C4244: аргумент: преобразование "double" в "GLfloat", возможна потеря данных
+D:\my_projects\Game\Game\structures_lib.cpp(51256,26): warning C4244: аргумент: преобразование "double" в "GLfloat", возможна потеря данных
+D:\my_projects\Game\Game\structures_lib.cpp(51256,17): warning C4244: аргумент: преобразование "double" в "GLfloat", возможна потеря данных
+D:\my_projects\Game\Game\structures_lib.cpp(51317,35): warning C4244: аргумент: преобразование "double" в "GLfloat", возможна потеря данных
+D:\my_projects\Game\Game\structures_lib.cpp(51317,26): warning C4244: аргумент: преобразование "double" в "GLfloat", возможна потеря данных
+D:\my_projects\Game\Game\structures_lib.cpp(51317,17): warning C4244: аргумент: преобразование "double" в "GLfloat", возможна потеря данных
+D:\my_projects\Game\Game\structures_lib.cpp(51365,40): warning C4244: аргумент: преобразование "double" в "GLfloat", возможна потеря данных
+D:\my_projects\Game\Game\structures_lib.cpp(51387,75): warning C4244: аргумент: преобразование "double" в "GLfloat", возможна потеря данных
+D:\my_projects\Game\Game\structures_lib.cpp(51387,82): warning C4305: аргумент: усечение из "double" в "GLfloat"
+D:\my_projects\Game\Game\structures_lib.cpp(51640,74): warning C4244: аргумент: преобразование "double" в "GLfloat", возможна потеря данных
+D:\my_projects\Game\Game\structures_lib.cpp(51640,81): warning C4305: аргумент: усечение из "double" в "GLfloat"
+D:\my_projects\Game\Game\structures_lib.cpp(51745,27): warning C4244: аргумент: преобразование "double" в "GLfloat", возможна потеря данных
+D:\my_projects\Game\Game\structures_lib.cpp(51962,74): warning C4244: аргумент: преобразование "double" в "GLfloat", возможна потеря данных
+D:\my_projects\Game\Game\structures_lib.cpp(51962,81): warning C4305: аргумент: усечение из "double" в "GLfloat"
+D:\my_projects\Game\Game\structures_lib.cpp(52132,75): warning C4244: аргумент: преобразование "double" в "GLfloat", возможна потеря данных
+D:\my_projects\Game\Game\structures_lib.cpp(52132,82): warning C4305: аргумент: усечение из "double" в "GLfloat"
+D:\my_projects\Game\Game\structures_lib.cpp(52194,45): warning C4305: аргумент: усечение из "double" в "GLfloat"
+D:\my_projects\Game\Game\structures_lib.cpp(52320,75): warning C4244: аргумент: преобразование "double" в "GLfloat", возможна потеря данных
+D:\my_projects\Game\Game\structures_lib.cpp(52320,82): warning C4305: аргумент: усечение из "double" в "GLfloat"
+D:\my_projects\Game\Game\structures_lib.cpp(52493,73): warning C4244: аргумент: преобразование "double" в "GLfloat", возможна потеря данных
+D:\my_projects\Game\Game\structures_lib.cpp(52493,80): warning C4305: аргумент: усечение из "double" в "GLfloat"
+D:\my_projects\Game\Game\structures_lib.cpp(52566,27): warning C4244: аргумент: преобразование "double" в "GLfloat", возможна потеря данных
+D:\my_projects\Game\Game\structures_lib.cpp(52723,58): warning C4244: аргумент: преобразование "double" в "GLfloat", возможна потеря данных
+D:\my_projects\Game\Game\structures_lib.cpp(52723,65): warning C4305: аргумент: усечение из "double" в "GLfloat"
+D:\my_projects\Game\Game\structures_lib.cpp(52857,75): warning C4244: аргумент: преобразование "double" в "GLfloat", возможна потеря данных
+D:\my_projects\Game\Game\structures_lib.cpp(52857,82): warning C4305: аргумент: усечение из "double" в "GLfloat"
+D:\my_projects\Game\Game\structures_lib.cpp(52923,45): warning C4305: аргумент: усечение из "double" в "GLfloat"
+D:\my_projects\Game\Game\structures_lib.cpp(53001,75): warning C4244: аргумент: преобразование "double" в "GLfloat", возможна потеря данных
+D:\my_projects\Game\Game\structures_lib.cpp(53001,82): warning C4305: аргумент: усечение из "double" в "GLfloat"
+D:\my_projects\Game\Game\structures_lib.cpp(53190,74): warning C4244: аргумент: преобразование "double" в "GLfloat", возможна потеря данных
+D:\my_projects\Game\Game\structures_lib.cpp(53190,81): warning C4305: аргумент: усечение из "double" в "GLfloat"
+D:\my_projects\Game\Game\structures_lib.cpp(53259,72): warning C4244: аргумент: преобразование "double" в "GLfloat", возможна потеря данных
+D:\my_projects\Game\Game\structures_lib.cpp(53259,79): warning C4305: аргумент: усечение из "double" в "GLfloat"
+D:\my_projects\Game\Game\structures_lib.cpp(53384,74): warning C4244: аргумент: преобразование "double" в "GLfloat", возможна потеря данных
+D:\my_projects\Game\Game\structures_lib.cpp(53384,81): warning C4305: аргумент: усечение из "double" в "GLfloat"
+D:\my_projects\Game\Game\structures_lib.cpp(53522,73): warning C4244: аргумент: преобразование "double" в "GLfloat", возможна потеря данных
+D:\my_projects\Game\Game\structures_lib.cpp(53522,80): warning C4305: аргумент: усечение из "double" в "GLfloat"
+D:\my_projects\Game\Game\structures_lib.cpp(53576,45): warning C4305: аргумент: усечение из "double" в "GLfloat"
+D:\my_projects\Game\Game\structures_lib.cpp(53659,73): warning C4244: аргумент: преобразование "double" в "GLfloat", возможна потеря данных
+D:\my_projects\Game\Game\structures_lib.cpp(53659,80): warning C4305: аргумент: усечение из "double" в "GLfloat"
+D:\my_projects\Game\Game\structures_lib.cpp(53874,72): warning C4244: аргумент: преобразование "double" в "GLfloat", возможна потеря данных
+D:\my_projects\Game\Game\structures_lib.cpp(53874,79): warning C4305: аргумент: усечение из "double" в "GLfloat"
+D:\my_projects\Game\Game\structures_lib.cpp(54027,76): warning C4305: аргумент: усечение из "double" в "GLfloat"
+D:\my_projects\Game\Game\structures_lib.cpp(54144,73): warning C4305: аргумент: усечение из "double" в "GLfloat"
+D:\my_projects\Game\Game\structures_lib.cpp(54209,76): warning C4305: аргумент: усечение из "double" в "GLfloat"
+D:\my_projects\Game\Game\structures_lib.cpp(54322,74): warning C4305: аргумент: усечение из "double" в "GLfloat"
+D:\my_projects\Game\Game\structures_lib.cpp(54415,76): warning C4305: аргумент: усечение из "double" в "GLfloat"
+D:\my_projects\Game\Game\structures_lib.cpp(54508,79): warning C4305: аргумент: усечение из "double" в "GLfloat"
+D:\my_projects\Game\Game\structures_lib.cpp(54637,77): warning C4305: аргумент: усечение из "double" в "GLfloat"
+D:\my_projects\Game\Game\structures_lib.cpp(54762,75): warning C4305: аргумент: усечение из "double" в "GLfloat"
+D:\my_projects\Game\Game\structures_lib.cpp(54955,75): warning C4305: аргумент: усечение из "double" в "GLfloat"
+D:\my_projects\Game\Game\structures_lib.cpp(55063,77): warning C4305: аргумент: усечение из "double" в "GLfloat"
+D:\my_projects\Game\Game\structures_lib.cpp(55080,76): warning C4305: аргумент: усечение из "double" в "GLfloat"
+D:\my_projects\Game\Game\structures_lib.cpp(55381,76): warning C4305: аргумент: усечение из "double" в "GLfloat"
+D:\my_projects\Game\Game\structures_lib.cpp(55442,75): warning C4305: аргумент: усечение из "double" в "GLfloat"
+D:\my_projects\Game\Game\structures_lib.cpp(55472,76): warning C4305: аргумент: усечение из "double" в "GLfloat"
+D:\my_projects\Game\Game\structures_lib.cpp(55509,74): warning C4305: аргумент: усечение из "double" в "GLfloat"
+D:\my_projects\Game\Game\structures_lib.cpp(55638,76): warning C4305: аргумент: усечение из "double" в "GLfloat"
+D:\my_projects\Game\Game\structures_lib.cpp(55647,75): warning C4305: аргумент: усечение из "double" в "GLfloat"
+D:\my_projects\Game\Game\structures_lib.cpp(55753,77): warning C4305: аргумент: усечение из "double" в "GLfloat"
+D:\my_projects\Game\Game\structures_lib.cpp(55762,75): warning C4305: аргумент: усечение из "double" в "GLfloat"
+D:\my_projects\Game\Game\structures_lib.cpp(55835,75): warning C4305: аргумент: усечение из "double" в "GLfloat"
+D:\my_projects\Game\Game\structures_lib.cpp(55952,62): warning C4305: аргумент: усечение из "double" в "GLfloat"
+  world.cpp
+  drawlib.cpp
+D:\my_projects\Game\Game\drawlib.cpp(14,24): warning C4305: аргумент: усечение из "double" в "GLfloat"
+D:\my_projects\Game\Game\drawlib.cpp(248,16): warning C4305: инициализация: усечение из "double" в "float"
+D:\my_projects\Game\Game\drawlib.cpp(252,20): warning C4018: <: несоответствие типов со знаком и без знака
+D:\my_projects\Game\Game\drawlib.cpp(412,32): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+D:\my_projects\Game\Game\drawlib.cpp(413,32): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+D:\my_projects\Game\Game\drawlib.cpp(414,32): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+D:\my_projects\Game\Game\drawlib.cpp(415,32): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+D:\my_projects\Game\Game\drawlib.cpp(416,32): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+D:\my_projects\Game\Game\drawlib.cpp(417,32): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+D:\my_projects\Game\Game\drawlib.cpp(418,32): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+D:\my_projects\Game\Game\drawlib.cpp(419,32): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+  logic_lib.cpp
+D:\my_projects\Game\Game\logic_lib.cpp(11,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+D:\my_projects\Game\Game\logic_lib.cpp(306,39): warning C4244: +=: преобразование "double" в "int", возможна потеря данных
+D:\my_projects\Game\Game\logic_lib.cpp(307,43): warning C4244: +=: преобразование "double" в "int", возможна потеря данных
+D:\my_projects\Game\Game\logic_lib.cpp(309,46): warning C4244: +=: преобразование "double" в "int", возможна потеря данных
+D:\my_projects\Game\Game\logic_lib.cpp(310,46): warning C4244: +=: преобразование "double" в "int", возможна потеря данных
+D:\my_projects\Game\Game\logic_lib.cpp(311,46): warning C4244: +=: преобразование "double" в "int", возможна потеря данных
+D:\my_projects\Game\Game\logic_lib.cpp(312,46): warning C4244: +=: преобразование "double" в "int", возможна потеря данных
+D:\my_projects\Game\Game\logic_lib.cpp(473,11): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+D:\my_projects\Game\Game\logic_lib.cpp(479,11): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+  main.cpp
+D:\my_projects\Game\Game\main.cpp(38,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  entity.cpp
+D:\my_projects\Game\Game\entity.cpp(64,16): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+D:\my_projects\Game\Game\entity.cpp(67,11): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+D:\my_projects\Game\Game\entity.cpp(72,45): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+D:\my_projects\Game\Game\entity.cpp(72,16): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+D:\my_projects\Game\Game\entity.cpp(150,29): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+Release\file_lib.obj : warning LNK4042: объект указан более одного раза; лишние не учитываются
+  Создание кода
+  Previous IPDB not found, fall back to full compilation.
+  All 416 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Создание кода завершено
+  Game.vcxproj -> D:\my_projects\Game\Release\Game.exe

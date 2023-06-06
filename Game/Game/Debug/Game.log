@@ -1,0 +1,7 @@
+﻿  entity.cpp
+D:\my_projects\Game\Game\entity.cpp(64,16): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+D:\my_projects\Game\Game\entity.cpp(67,11): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+D:\my_projects\Game\Game\entity.cpp(72,45): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+D:\my_projects\Game\Game\entity.cpp(72,16): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+D:\my_projects\Game\Game\entity.cpp(150,29): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+  Game.vcxproj -> D:\my_projects\Game\Debug\Game.exe

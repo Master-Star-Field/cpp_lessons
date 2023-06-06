@@ -1,0 +1,51 @@
+{
+  "version": "2.1.0",
+  "$schema": "https://schemastore.azurewebsites.net/schemas/json/sarif-2.1.0-rtm.5.json",
+  "runs": [
+    {
+      "results": [],
+      "tool": {
+        "driver": {
+          "name": "PREfast",
+          "fullName": "PREfast Code Analysis",
+          "version": "14.35.32215.0",
+          "informationUri": "https://aka.ms/cpp/ca"
+        }
+      },
+      "invocations": [
+        {
+          "executionSuccessful": true
+        }
+      ],
+      "artifacts": [
+        {
+          "location": {
+            "uri": "file:///d:/my_projects/game/game/animation_lib.cpp"
+          },
+          "roles": [
+            "analysisTarget"
+          ],
+          "hashes": {
+            "sha-256": "46282ff6a2234cadba464e795ed311081ce693603457f8e800b86dcb85f1ed92"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///d:/my_projects/game/game/entity.h"
+          },
+          "hashes": {
+            "sha-256": "28027c5699b59645425985971724f66f4fac7213ccd6d4df7b00ff99b32d19f8"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///d:/my_projects/game/game/world.h"
+          },
+          "hashes": {
+            "sha-256": "c4e45c9d3309ed679d0faf533bb6d6129467bf6cb6c612ecbe0d0dcc74af94a4"
+          }
+        }
+      ]
+    }
+  ]
+}
