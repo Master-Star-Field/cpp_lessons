@@ -1,0 +1,146 @@
+card_num : 0
+card_type : 0
+mana : 30
+attribute : 0
+name : bace_attack
+value : 12
+
+card_num : 1
+card_type : 0
+mana : 60
+attribute : 0
+name : super_attack
+value : 12
+
+card_num : 2
+card_type : 1
+mana : 20
+attribute : 0
+name : mana_victim
+value : 20
+
+card_num : 3
+card_type : 0
+mana : 80
+attribute : 1
+name : poison
+value : 80
+
+card_num : 4
+card_type : 1
+mana : 20
+attribute : 1
+name : heal
+value : 40
+////////////////////////////
+card_num : 5
+card_type : 0
+mana : 80
+attribute : 1
+name : water_arrow
+value : 20
+
+card_num : 6
+card_type : 0
+mana : 30
+attribute : 2
+name : dark_bolt
+value : 10
+
+card_num : 7
+card_type : 1
+mana : 30
+attribute : 2
+name : death
+value : 100000
+
+card_num : 8
+card_type : 0
+mana : 250
+attribute : 4
+name : fire_hand
+value : 100
+
+card_num : 9
+card_type : 0
+mana : 15
+attribute : 3
+name : wind_bird
+value : 8
+
+card_num : 10
+card_type : 1
+mana : 50
+attribute : 3
+name : dark_resist
+value : 200
+
+card_num : 11
+card_type : 1
+mana : 50
+attribute : 2
+name : wind_resist
+value : 200
+
+card_num : 12
+card_type : 1
+mana : 50
+attribute : 2
+name : water_resist
+value : 200
+
+card_num : 13
+card_type : 0
+mana : 40
+attribute : 4
+name : fire_weakness
+value : 160
+
+card_num : 14
+card_type : 0
+mana : 40
+attribute : 3
+name : wind_weakness
+value : 160
+
+card_num : 15
+card_type : 0
+mana : 200
+attribute : 5
+name : union_elements
+value : 10
+
+card_num : 16
+card_type : 1
+mana : 200
+attribute : 5
+name : mana_bust
+value : 10
+
+card_num : 17
+card_type : 1
+mana : 80
+attribute : 5
+name : health_regeneration
+value : 120
+
+card_num : 18
+card_type : 1
+mana : 150
+attribute : 5
+name : change_life
+value : 1
+
+card_num : 19
+card_type : 1
+mana : 100
+attribute : 5
+name : mana_life_circle
+value : 1
+
+card_num : 20
+card_type : 1
+mana : 0
+attribute : 5
+name : greate_victim
+value : 1

@@ -1,0 +1,14 @@
+<---hero start characteristic--->
+health : 500
+mana : 2000
+luck : 23
+quality : 100
+water affinity : 2
+fire affinity : 2
+dark affinity : 2
+wind affinity : 2
+<---world start parametrs--->
+level : 1
+crystal state(< 4) : 0
+start point count : 5
+point for level : 2
